@@ -32,7 +32,6 @@ div {
     border-bottom: solid;
     border-color: #F6F8F9;
     border-width: 3px;
-
 }
 
 #button1 {
@@ -86,17 +85,17 @@ ul {
     color: rgb(194, 14, 14);
 }
 
-.tag {
+
+p {
     font-size: 10px;
     padding: 4px 8px;
     border: solid;
     border-radius: 11px;
     color: white;
-
-
+    display: inline-block;
 }
 
-#blue {
+.blue {
     background-color: #45ABEA;
     border-color: #45ABEA;
 }
