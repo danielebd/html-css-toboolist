@@ -9,6 +9,48 @@ body {
 }
 
 h1 {
-display: inline-block;
-vertical-align: middle;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+main {
+    background-color: white;
+    margin: 10px 30%;
+    padding-left:
+}
+
+div {
+    padding: 15px 20px 10px 50px;
+}
+
+.button {
+    font-size: small;
+    border-bottom: solid;
+    border-color: #F6F8F9;
+    border-width: 3px;
+
+}
+
+#button1 {
+    background-color: #47ADF1;
+    border: solid;
+    border-color: #47ADF1;
+    color: white;
+    display: inline-block;
+    padding: 7px 14px;
+    border-radius: 7px;
+    border-width: 1px;
+}
+
+#button2 {
+    color: #C8CED3;
+    border: solid;
+    display: inline-block;
+    padding: 7px 14px;
+    border-radius: 7px;
+    border-width: 1px;
+}
+
+li {
+    padding-bottom: 15px;
 }
