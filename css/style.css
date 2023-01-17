@@ -3,6 +3,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+    background-color: white;
+}
+
 .logo {
     display: inline-block;
     vertical-align: middle;
@@ -20,7 +24,7 @@ main {
 }
 
 div {
-    padding: 15px 20px 10px 50px;
+    padding: 25px 20px 10px 70px;
 }
 
 .button {
@@ -52,5 +56,72 @@ div {
 }
 
 li {
-    padding-bottom: 15px;
+    padding-bottom: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 35px;
+
+}
+
+.simb {
+    border: solid;
+    border-width: 1.7px;
+    border-color: green;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    color: green;
+}
+
+.simb2 {
+    border: solid;
+    border-width: 1.7px;
+    border-color: rgb(194, 14, 14);
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    color: rgb(194, 14, 14);
+}
+
+.tag {
+    font-size: 10px;
+    padding: 4px 8px;
+    border: solid;
+    border-radius: 11px;
+    color: white;
+
+
+}
+
+#blue {
+    background-color: #45ABEA;
+    border-color: #45ABEA;
+}
+
+#violet {
+    background-color: #9C72E4;
+    border-color: #9C72E4;
+}
+
+#green {
+    background-color: #65C1AA;
+    border-color: #65C1AA;
+}
+
+#orange {
+    background-color: #F29E33;
+    border-color: #F29E33;
+}
+
+#purple {
+    background-color: #D863A1;
+    border-color: #D863A1;
+}
+
+#lime {
+    background-color: #B0C926;
+    border-color: #B0C926;
 }
